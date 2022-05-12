@@ -1,0 +1,54 @@
+Loopring
+Threshold = 0
+Hold Return = 1.1401773032277025   Bot Return = 1.3138248142563322
+Threshold = 5
+Hold Return = 1.1401773032277025   Bot Return = 1.2950672685695046
+Threshold = 10
+Hold Return = 1.1401773032277025   Bot Return = 1.117706164024524
+Threshold = 15
+Hold Return = 1.1401773032277025   Bot Return = 1.0559300009302237
+Threshold = 20
+Hold Return = 1.1401773032277025   Bot Return = 1.0605223986205217
+Fantom
+Threshold = 0
+Hold Return = 0.5949195329757021   Bot Return = 1.014720625742689
+Threshold = 5
+Hold Return = 0.5949195329757021   Bot Return = 1.0515219704199816
+Threshold = 10
+Hold Return = 0.5949195329757021   Bot Return = 1.0483809326305766
+Threshold = 15
+Hold Return = 0.5949195329757021   Bot Return = 1
+Threshold = 20
+Hold Return = 0.5949195329757021   Bot Return = 1
+Mina
+Threshold = 0
+Hold Return = 0.9844215349369987   Bot Return = 1.1450978299698005
+Threshold = 5
+Hold Return = 0.9844215349369987   Bot Return = 1.1528965648673168
+Threshold = 10
+Hold Return = 0.9844215349369987   Bot Return = 1.1566964544395157
+Hold Return = 0.9844215349369987   Bot Return = 0.9803761242845462
+Threshold = 20
+Hold Return = 0.9844215349369987   Bot Return = 1
+NEAR Protocol
+Threshold = 0
+Hold Return = 0.8235566247224279   Bot Return = 1.0763550335503558
+Threshold = 5
+Hold Return = 0.8235566247224279   Bot Return = 1.0806487130865037
+Threshold = 10
+Hold Return = 0.8235566247224279   Bot Return = 1.044586903427242
+Threshold = 15
+Hold Return = 0.8235566247224279   Bot Return = 1.0552280757952965
+Threshold = 20
+Hold Return = 0.8235566247224279   Bot Return = 0.9953062953291577
+Zcash
+Threshold = 0
+Hold Return = 0.8728018757327082   Bot Return = 1.0133199905896022
+Threshold = 5
+Hold Return = 0.8728018757327082   Bot Return = 1.0458718826170836
+Threshold = 10
+Hold Return = 0.8728018757327082   Bot Return = 0.9987672850300144
+Threshold = 15
+Hold Return = 0.8728018757327082   Bot Return = 1.0198585863849992
+Threshold = 20
+Hold Return = 0.8728018757327082   Bot Return = 1.0292450915165188

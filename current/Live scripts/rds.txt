@@ -1,0 +1,8 @@
+coin-database-1
+user: admin
+pass: caps03
+port 3306
+endpoint: coin-database-1-instance-1.c9hqcydvu19f.us-east-1.rds.amazonaws.com
+
+KMS key ID
+49c5e5cb-3702-4508-914e-6ec253737636

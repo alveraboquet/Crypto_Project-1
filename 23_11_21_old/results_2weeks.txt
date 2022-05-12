@@ -1,0 +1,66 @@
+LTO network
+Threshold = 0
+Hold Return = 1.6560509554140128   Bot Return = 2.7738446041019578
+Threshold = 5
+Hold Return = 1.6560509554140128   Bot Return = 2.5172928143003572
+Threshold = 10
+Hold Return = 1.6560509554140128   Bot Return = 2.244986767589474
+Threshold = 15
+Hold Return = 1.6560509554140128   Bot Return = 1.7121691707099045
+Threshold = 20
+Hold Return = 1.6560509554140128   Bot Return = 1.6723022018481324
+Wrapped NXM
+Threshold = 0
+Hold Return = 1.0373614342411388   Bot Return = 0.9351530202369008
+Threshold = 5
+Hold Return = 1.0373614342411388   Bot Return = 0.9351530202369008
+Threshold = 10
+Hold Return = 1.0373614342411388   Bot Return = 0.9351530202369008
+Threshold = 15
+Hold Return = 1.0373614342411388   Bot Return = 0.9164505287068998
+Threshold = 20
+Hold Return = 1.0373614342411388   Bot Return = 0.99815096008444
+Dusk Network
+Threshold = 0
+Hold Return = 1.0521380345086273   Bot Return = 1.1944874776308867
+Threshold = 5
+Hold Return = 1.0521380345086273   Bot Return = 0.9106283627006703
+Threshold = 10
+Hold Return = 1.0521380345086273   Bot Return = 0.8791657561238108
+Threshold = 15
+Hold Return = 1.0521380345086273   Bot Return = 1.0215300921614483
+Threshold = 20
+Hold Return = 1.0521380345086273   Bot Return = 1.0404923537456945
+IoTeX
+Threshold = 0
+Hold Return = 1.7410163517086066   Bot Return = 2.856814646193034
+Threshold = 5
+Hold Return = 1.7410163517086066   Bot Return = 2.090348895965947
+Threshold = 10
+Hold Return = 1.7410163517086066   Bot Return = 1.7274421603965207
+Threshold = 15
+Hold Return = 1.7410163517086066   Bot Return = 1.8325939736413615
+Threshold = 20
+Hold Return = 1.7410163517086066   Bot Return = 1.842383203195123
+IDEX
+Threshold = 0
+Hold Return = 1.2517818348134315   Bot Return = 1.0038026221849297
+Threshold = 5
+Hold Return = 1.2517818348134315   Bot Return = 1.0441847236777486
+Threshold = 10
+Hold Return = 1.2517818348134315   Bot Return = 0.867020449293048
+Threshold = 15
+Hold Return = 1.2517818348134315   Bot Return = 0.9514199077595803
+Threshold = 20
+Hold Return = 1.2517818348134315   Bot Return = 1
+Loopring
+Threshold = 0
+Hold Return = 1.1401773032277025   Bot Return = 1.3138248142563322
+Threshold = 5
+Hold Return = 1.1401773032277025   Bot Return = 1.2950672685695046
+Threshold = 10
+Hold Return = 1.1401773032277025   Bot Return = 1.117706164024524 
+Threshold = 15
+Hold Return = 1.1401773032277025   Bot Return = 1.0559300009302237
+Threshold = 20
+Hold Return = 1.1401773032277025   Bot Return = 1.0605223986205217

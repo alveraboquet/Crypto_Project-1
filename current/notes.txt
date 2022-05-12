@@ -1,0 +1,63 @@
+notes
+
+182 missing trend data in middle
+111 missing trend data in middle
+
+212 no trades in first half, check all bots that dont trade (10.0 -10.0 default if not?)
+
+154 searchable needs changing to 'LUNA coin'
+87 searchable needs changing to 'Drep'
+188 'Perl coin' or remove
+100 'Fetch coin' or 'Fetch.ai' - data fucked
+
+275 = [10 -5]
+
+252 doesnt respond very well
+
+187 = [5 -5] Take the best indicator over both time sets
+
+ ------- check kall trends missing between 2021-08 and 2021-10 ------- 
+2021-07-31 03:00:00	0	182
+2021-07-31 22:00:00	0	182
+2021-10-02 22:00:00	0	182
+2021-10-04 17:00:00	0	182c  
+
+121 changing searchable to hbar / hedera coin
+    also ake the best indicator over both time sets [5 -5]
+
+202 Quant name searchable: 'quant network'
+
+157 name searchable polygon matic
+
+181 MANTRA DOA could be better? graph looks v noisy
+
+117 was 00 cahnge to -5-20, but neds to be 5-5
+
+64 coti to [10 0] as best av
+
+260 (vite is quick in spanish) vite coin nmame searchble, or vite token?
+
+133 middle bit missed at inc 
+
+214 v werid, all trades identical, aph 0-30+ each time, 
+
+
+add in a 'if the coin value has gone up by a certain amount then sell' //didnt work very well
+firstly add in crypto 
+
+161 better with diff, 59 better with flat
+need to check if the ones better with flat are better in pt 2 with flat
+
+
+Ranke the different min maxs by the gain/min
+ADD IN A SELL ORDER WHEN VALUE STARTS TO DROP
+check daily change as the trend is taken from 100 sample, daily might show more realistic (especially live)
+
+check = 14, 
+
+
+value is greater than buy value, and value is 0.9 of difference to max value- didnt work
+
+put a sell limit if its been over 3 days
+
+detect price increase or decrease befor buying, up / down
