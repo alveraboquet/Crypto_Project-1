@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
     waiting = True
     check_data = False
-    # need async here? or while loop with 2 functions
+   
     while(True):
 
         if(waiting):
